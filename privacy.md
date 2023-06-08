@@ -34,7 +34,7 @@ Data are stored until the bot is in the guild. It can be requested to be deleted
 ## Information Deletion
 
 To request that information is deleted, please either:
-- contact us via discord at `Kirito.#4216`, `Nagrom#0528` - [support server](https://discord.gg/SXJnFEVvd3)
+- contact us via discord at `kirito49.`, `Nagrom#0528` - [support server](https://discord.gg/SXJnFEVvd3)
 
 ## Example Stored Data
 
