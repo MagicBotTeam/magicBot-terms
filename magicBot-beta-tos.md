@@ -9,6 +9,6 @@
 
 - **Ownership:** Magic Bot is owned by Nagrom#0528, and as a beta tester, you do not have any ownership rights to the bot or any of its features.
 
-- **Disclaimer of Warranties:** Magic Bot is provided on an "as is" and "as available" basis. Nagrom#0528 & Kirito.#4216 does not make any warranties, express or implied, regarding the bot's performance, features, or any other aspect of the bot.
+- **Disclaimer of Warranties:** Magic Bot is provided on an "as is" and "as available" basis. Nagrom#0528 & kirito49. does not make any warranties, express or implied, regarding the bot's performance, features, or any other aspect of the bot.
 
-- **Termination:** Nagrom#0528 & Kirito.#4216 reserves the right to terminate the beta program at any time, for any reason, without notice. Nagrom#0528 & Kirito.#4216 also reserves the right to terminate your participation in the beta program if you violate any of these terms and conditions.
+- **Termination:** Nagrom#0528 & kirito49. reserves the right to terminate the beta program at any time, for any reason, without notice. Nagrom#0528 & kirito49. also reserves the right to terminate your participation in the beta program if you violate any of these terms and conditions.
